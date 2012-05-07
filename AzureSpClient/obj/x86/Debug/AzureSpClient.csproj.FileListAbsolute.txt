@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSpClient\bin\Debug\AzureSpClient.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSpClient\bin\Debug\AzureSpClient.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSpClient\bin\Debug\AzureSpClient.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSpClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSpClient\obj\x86\Debug\AzureSpClient.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSpClient\obj\x86\Debug\AzureSpClient.pdb

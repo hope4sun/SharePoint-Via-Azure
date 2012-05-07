@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSBR\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSBR\bin\Debug\AzureSBR.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSBR\bin\Debug\AzureSBR.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSBR\bin\Debug\AzureSBR.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSBR\obj\x86\Debug\AzureSBR.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AzureSBR\AzureSBR\obj\x86\Debug\AzureSBR.pdb
